@@ -8,6 +8,6 @@ website:
     title: "Learn with Jen"
     left:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "About"
-        href: about.html
+        href: about.qmd
