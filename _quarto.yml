@@ -2,7 +2,6 @@ project:
   type: website
   title: "Learn with Jen"
   output-dir: _site
-  theme: journal
 
 website:
   navbar:
