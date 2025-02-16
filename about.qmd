@@ -1,0 +1,10 @@
+---
+title: "about"
+author: "jennifer mosley"
+format: html
+editor: visual
+---
+
+## About
+
+Hey there, I'm Jennifer. I am a fourth-year PhD Psychology student at the University of California, Riverside. My primary research interests are self-concept, identity, autobiographical memory, and social-cognitive neuroscience. I love lattes, listening to my favorite music, and interacting with animals.
