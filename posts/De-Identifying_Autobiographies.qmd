@@ -1,11 +1,9 @@
 ---
-title: "De-Identifying Autobiographies"
+title: "De-identified Autobiographies: The Challenges of Disseminating Personal Research"
 author: "Jennifer Mosley"
 format: html
 editor: visual
 ---
-
-## De-identified Autobiographies: The Challenges of Disseminating Personal Research
 
 When I mention to new acquaintances that I study self-concept, I am met with some looks of perplexity. Understandably, the self is a broad topic in psychology: all roads in social psychology lead to the self in some way. Additionally, the prevalence and empirical feasibility of the self has waded ebbs-and-flows throughout its scholarly history; the self, as a line of research, requires great attention to individual differences and interdisciplinary considerations that most methods may not adequately address.
 

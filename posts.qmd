@@ -4,4 +4,4 @@ format: html
 editor: visual
 ---
 
-[De-Identifying Autobiographies: The Challenges of Disseminating Personal Research](posts/De-Identifying%20Autobiographies.qmd)
+[De-Identifying Autobiographies: The Challenges of Disseminating Personal Research](posts/De-Identifying_Autobiographies.qmd)
