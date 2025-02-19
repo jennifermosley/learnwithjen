@@ -1,5 +1,5 @@
 ---
-title: "De-identified Autobiographies: The Challenges of Disseminating Personal Research"
+title: "Deidentified Autobiographies: The Challenges of Disseminating Personal Research"
 author: "Jennifer Mosley"
 format: html
 editor: visual
