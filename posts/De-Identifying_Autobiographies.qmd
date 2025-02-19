@@ -9,17 +9,17 @@ When I mention to new acquaintances that I study self-concept, I am met with som
 
 Despite this, the continuous evolution of computational methods have provided self-concept research with newfound possibilities for robust, interpretable findings. Also, like most intellectual newground, thinking outside the psychological box has positioned this line of research toward great innovation and meaningful applications surpassing psychology.
 
-![Innovation GIF](~/GitLab/Blog/learn-with-jen/posts/Post Gifs/innovation.gif)
+<img src="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW" width="400">
 
 So, what do I really do? In short, my work aims to model self, as a working concept, through autobiographical memories and the subjective relationships between memories that altogether embody a coherent sense of self and identity. I analyze and visualize directed connections between memories using network analysis, so the iGraph package in R has been critical for this research.
 
 In fact, in my department, most use R for statistical methods such as regression and mediation analyses. Anything that is inherently multivariate, like network analysis, may become a task for MATLAB or Python, especially for neuroimaging analysis. I think it would surprise some of my peers that these seemingly-rigorous analyses are carried out with the same software they use everyday for data wrangling, analysis, and visualization. Luckily for me, these R packages minimizes the learning curve and maximizes efficiency when implementing network analysis and visualization.
 
-![Network GIF](~/GitLab/Blog/learn-with-jen/posts/Post Gifs/network_glow.gif)
+![Network GIF](~/GitLab/Blog/learn-with-jen/posts/Post%20Gifs/network_glow.gif)
 
 Despite how welcoming R has been for me as I navigate this methodology, I am still exploring how to optimize my R skillset and workflow to best communicate exciting findings about these network models while also maintaining a high standard for participant privacy. I have encountered many unique challenges in presenting my research from self-concept land, and individual differences and privacy have been the most challenging when discussing my work with others. My network examples for talks are usually created from my own experiences, or generated randomly by my analysis software. While this has worked just fine for demo purposes, I would someday like to show real data and real memory networks to my audience; my memory networks are humanly-biased, and automated networks are not human-representative.
 
-![Dancing Robot GIF](~/GitLab/Blog/learn-with-jen/posts/Post Gifs/dancing_robot.gif)
+![Dancing Robot GIF](~/GitLab/Blog/learn-with-jen/posts/Post%20Gifs/dancing_robot.gif)
 
 For these reasons, I tend to be very selective with the participant data that I share and even analyze. My behavioral analysis scripts can also invade participant privacy, as creating networks first requires memory data, the subjective connections between them, and subjective evaluations of each memory. Same goes for my neuroimaging data, where the raw brain images themselves are sensitive. Can you recognize a person by their skull? I can and I have from images alone. In my analysis, I often pair neuroimaging data with the behavioral network data, reintroducing original challenges of privacy.
 
@@ -27,6 +27,6 @@ As a researcher-in-training, I am learning new ways to communicate and dissemina
 
 Moving forward in this work, given my existing skillset in R, I would like to learn how to best integrate neuroimaging data workflows through R, using software like FSL and FreeSurfer for processing and functional activity analysis. With this integration, my analysis workflow will be more streamlined and replicable for when I inevitably need to repeat the same workflow. I aim to learn how to use packages like brainwaver to employ functional connectivity analyses using R.
 
-![Cat Working Hard GIF](~/GitLab/Blog/learn-with-jen/posts/Post Gifs/cat_working.gif)
+![Cat Working Hard GIF](~/GitLab/Blog/learn-with-jen/posts/Post%20Gifs/cat_working.gif)
 
 There are many challenges to this line of work, understanding how personal memories support the basis of who we are. Indeed, simple yet robust methods are needed to make this happen, which is why I look to stay within the world of R for data wrangling and statistical analysis. I have research assistants working on my research team who are particularly keen to gain knowledge in these data domains, though these research assistants do not learn about R until after their undergraduate studies. Through me, they have learned everything from the basics of R to applications of iGraph in contexts outside of the research we conduct. I intend to explore and study new methods for analyzing and visualizing autobiographical memory maps in a way that reflects the significance of the individual in this line of research.
