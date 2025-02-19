@@ -9,7 +9,7 @@ When I mention to new acquaintances that I study self-concept, I am met with som
 
 Despite this, the continuous evolution of computational methods have provided self-concept research with newfound possibilities for robust, interpretable findings. Also, like most intellectual newground, thinking outside the psychological box has positioned this line of research toward great innovation and meaningful applications surpassing psychology.
 
-<iframe src="https://giphy.com/embed/HUplkVCPY7jTW" width="343" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW">via GIPHY</a></p>
+![Innovation GIF](https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW)
 
 So, what do I really do? In short, my work aims to model self, as a working concept, through autobiographical memories and the subjective relationships between memories that altogether embody a coherent sense of self and identity. I analyze and visualize directed connections between memories using network analysis, so the iGraph package in R has been critical for this research.
 
