@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="./posts/De-Identifying_Autobiographies.html">De-Identifying Autobiographies: The Challenges of Disseminating Personal Research</a></p>
+<p><a href="posts/De-Identifying_Autobiographies.qmd">De-Identifying Autobiographies: The Challenges of Disseminating Personal Research</a></p>
 
 
 
@@ -230,7 +230,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/jennifermosley\.github\.io\/learnwithjen\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
